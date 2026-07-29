@@ -29,3 +29,10 @@ The same device can be a client in some situations, and a server in other situat
 
 ### Switches
 Switches are used to forward traffic within a LAN, a local area network.
+
+Switches...
+- have many network interfaces/ports for end hosts, such as PCs, to connect to, usually 24 or more. 
+- provide connectivity to hosts within the same LAN (Local Area Network). 
+- do not provide connectivity between LANs/over the Internet. 
+
+
