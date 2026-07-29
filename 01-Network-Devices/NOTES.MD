@@ -9,7 +9,7 @@ This lesson introduces the fundamentals of computer networking and provides an o
 ### What is a network?
 A computer network is a digital telecommunications network which allows nodes to share resources. 
 
-** Example of nodes ** 
+### Example of nodes
 - Router, Switch, Firewall, Server, and Client. 
 - Servers and Clients referred to as end hosts or endpoints.
 
