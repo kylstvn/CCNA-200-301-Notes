@@ -34,9 +34,15 @@ Switches are used to forward traffic within a LAN, a local area network.
 - do not provide connectivity between LANs/over the Internet. 
 
 ### Routers
-Routers...
+#### Routers...
 - have fewer network interfaces than switches. 
 - are used to provide connectivity between LANs. 
+- are therefore used to send data over the Internet. 
+
+### Firewalls
+Firewalls are specialty network security devices that control network traffic entering and exiting your network.
+Firewalls can be placed 'outside' of your router, like FW1, or 'inside of your network, like FW2. 
+
 
 
 
