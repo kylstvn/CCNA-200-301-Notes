@@ -14,9 +14,8 @@ A computer network is a digital telecommunications network which allows nodes to
 - Servers and Clients referred to as end hosts or endpoints.
 
 ### Building a network
-- PC1           PC2
-- PC1 <-------> PC2 
 If we connect them together, we now have a network. Two PCs connected together actually makes a network. 
+- PC1 <-------> PC2 
 
 ### Clients
 A client is a device that accesses a service made available by a server. 
