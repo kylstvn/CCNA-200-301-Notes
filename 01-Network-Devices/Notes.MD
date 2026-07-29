@@ -42,6 +42,19 @@ Switches are used to forward traffic within a LAN, a local area network.
 ### Firewalls
 Firewalls are specialty network security devices that control network traffic entering and exiting your network.
 Firewalls can be placed 'outside' of your router, like FW1, or 'inside of your network, like FW2. 
+#### Firewalls...
+- monitor and control network traffic based on configured rules. 
+- can be placed 'inside' the network, or 'outside the network'.
+- are known as 'Next-Generation Firewalls' when they include more modern and advanced filtering capabilities.
+
+#### Network firewalls...
+- are hardware devices that filter traffic between networks. 
+
+#### Host-based firewalls...
+- are software applications that filter traffic entering and exiting a host machine, like a PC.
+
+
+
 
 
 
