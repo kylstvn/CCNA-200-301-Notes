@@ -8,7 +8,8 @@
 - a switch
 - a server
 
-**Answer:** A Switch
+#### Answer: 
+A Switch
 - A switch, like this Cisco Catalyst 9200 series switch, is designed to connect many end hosts in the same LAN together. They include many network interfaces to connect hosts to. 
 
 #### Wrong Answers:
