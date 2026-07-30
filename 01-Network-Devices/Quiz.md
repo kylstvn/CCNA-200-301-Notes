@@ -32,13 +32,44 @@ A Server
 - In this case, your friend's phone provided the file to your iPhone. 
 
 #### Wrong Answers:
-A client
+A Client
 - In this case your iPhone, not your friend's iPhone, is functioning as a client.
 - A client accesses a service, it does not provide service.
 
-A local area network
-- An end host like an iPhone does not function as a local area network (LAN) by itself. It can, however, be a part of a local are network. 
+A Local area network
+- An end host like an iPhone does not function as a local area network (LAN) by itself. It can, however, be a part of a local are network.
 
+## Question 3
+### What is your computer or smartphone functioning as while you watch this video?
 
+#### Answer: 
+A Client 
+- Your device is receiving a service from YouTube's servers. Therefore, it is functioning as a client. 
 
+#### Wrong Answers: 
+A Server
+- Your device is receiving a service, not providing one, so it is not functioning as a server. 
+
+An End host
+- Although your device is an end host, that does not describe its function. Both servers and clients are end hosts in a network.
+
+## Question 4
+### Your company wants to purchase some network hardware to connect its separate networks together. What kind of network device is appropriate? 
+
+#### Answer:
+A Router
+- A router is a device that is designed to connect and forward network traffic between multiple networks. 
+
+#### Wrong Answers: 
+A Firewall
+- Although a firewall can connect multiple networks together, its real purpose is to monitor and control traffic as it enters and exits the network.
+
+A Host
+- The term 'host' can refer to any type of network node.
+
+A LAN
+- LAN stands for Local Area Network. A LAN is not a network device itself. 
+
+## Question 5
+### Your company wants to upgrade its old network firewall that has been in use for several years to one that provides more advanced functions. What kind of firewall should they purchase? 
 
