@@ -73,3 +73,15 @@ A LAN
 ## Question 5
 ### Your company wants to upgrade its old network firewall that has been in use for several years to one that provides more advanced functions. What kind of firewall should they purchase? 
 
+#### Answer:
+A Next-generation firewall
+- A Next-generation firewall combines traditional firewall features with more advanced filtering functionalities. 
+
+#### Wrong Answers:
+A Host-based firewall
+- A host-based firewall is a piece of software that runs on an end host, like the firewall on your computer. It is not a network firewall. 
+
+A Next-level firewall and A Top-layer firewall
+- These are not actual types of firewalls.
+
+
