@@ -28,13 +28,13 @@ The same device can be a client in some situations, and a server in other situat
 
 ### Switches
 Switches are used to forward traffic within a LAN, a local area network.
-#### Switches...
+**Switches...**
 - have many network interfaces/ports for end hosts, such as PCs, to connect to, usually 24 or more. 
 - provide connectivity to hosts within the same LAN (Local Area Network). 
 - do not provide connectivity between LANs/over the Internet. 
 
 ### Routers
-#### Routers...
+**Routers...**
 - have fewer network interfaces than switches. 
 - are used to provide connectivity between LANs. 
 - are therefore used to send data over the Internet. 
@@ -42,18 +42,17 @@ Switches are used to forward traffic within a LAN, a local area network.
 ### Firewalls
 Firewalls are specialty network security devices that control network traffic entering and exiting your network.
 Firewalls can be placed 'outside' of your router, like FW1, or 'inside of your network, like FW2. 
-#### Firewalls...
+**Firewalls...**
 - monitor and control network traffic based on configured rules. 
 - can be placed 'inside' the network, or 'outside the network'.
 - are known as 'Next-Generation Firewalls' when they include more modern and advanced filtering capabilities.
 
-#### Network firewalls...
+**Network firewalls...**
 - are hardware devices that filter traffic between networks. 
 
-#### Host-based firewalls...
+**Host-based firewalls...**
 - are software applications that filter traffic entering and exiting a host machine, like a PC.
 
-#
 
 
 
