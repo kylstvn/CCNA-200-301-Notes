@@ -11,7 +11,7 @@
 #### Answer: a switch
 
 #### Wrong Answer: 
-###### a router 
+** A router ** 
     A router, like this Cisco ISR 900 series router, is designed for forwarding traffic between networks, not for connecting lots of end hosts like PCs to. 
     A router will not typically have 30 network interfaces to connect hosts to. 
 
