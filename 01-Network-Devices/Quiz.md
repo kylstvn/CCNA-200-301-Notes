@@ -8,7 +8,7 @@
 - a switch
 - a server
 
-#### Answer: a switch
+**Answer:** a switch
 
 #### Wrong Answer: 
 **A router:** 
