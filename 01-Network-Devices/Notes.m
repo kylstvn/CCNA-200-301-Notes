@@ -53,7 +53,7 @@ Firewalls can be placed 'outside' of your router, like FW1, or 'inside of your n
 #### Host-based firewalls...
 - are software applications that filter traffic entering and exiting a host machine, like a PC.
 
-
+#
 
 
 
