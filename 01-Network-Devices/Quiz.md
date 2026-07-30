@@ -28,7 +28,8 @@ A Server
 
 #### Answer: 
 A Server
-- 
+- A server is a device that provides functions or service for clients.
+- In this case, your friend's phone provided the file to your iPhone. 
 
 #### Wrong Answers:
 A client
