@@ -21,7 +21,23 @@ A Firewall
 - A firewall, like this Cisco ASA 5500-X series firewall, is designed to filter traffic as it enters and exits the local network. It is not designed to connect directly to end hosts, and typically will not have enough network interfaces for 30 hosts.
 
 A Server
-- A server is an end host itself, not a networking device to which you will connect other end hosts. 
+- A server is an end host itself, not a networking device to which you will connect other end hosts.
+
+## Question 2
+### You received a video file from your friend's Apple iPhone using AirDrop. What was his iPhone functioning as in that transaction?
+
+#### Answer: 
+A Server
+- 
+
+#### Wrong Answers:
+A client
+- In this case your iPhone, not your friend's iPhone, is functioning as a client.
+- A client accesses a service, it does not provide service.
+
+A local area network
+- An end host like an iPhone does not function as a local area network (LAN) by itself. It can, however, be a part of a local are network. 
+
 
 
 
