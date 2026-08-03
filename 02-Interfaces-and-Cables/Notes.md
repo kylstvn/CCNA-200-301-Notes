@@ -1,6 +1,7 @@
 # Day 2 – Interfaces and Cables
 
-## Topics Covered
+### RJ-45
+RJ-45 (RJ = Registered Jack)
 
 
 
