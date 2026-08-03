@@ -13,8 +13,13 @@
 - Ethernet is a collection of network protocols/standards.
 
 ## Bits and Bytes
+- Speed is measured in bits per second (Kbps, Mbps, Gbps, etc.), not bytes per second. 
 ### What is a Bit?
 - It's a value represented by either a 0 or a 1. 
+- 0, 1 this binary code is how computers work.
+
+### What is a byte?
+- 8 bits is equal to 1 byte.
 
 
 
