@@ -1,9 +1,5 @@
 # Day 1 – Network Devices
 
-## Overview
-
-This lesson introduces the fundamentals of computer networking and provides an overview of the CCNA 200-301 course. It explains who the course is intended for, what a network is, the basic devices that make up a network, and the study materials that will be used throughout the course.
-
 ## Topics Covered
 
 ### What is a network?
