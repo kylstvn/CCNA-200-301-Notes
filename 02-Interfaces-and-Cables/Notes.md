@@ -13,7 +13,12 @@
 - Ethernet is a collection of network protocols/standards.
 
 ## Bits and Bytes
-- Speed is measured in bits per second (Kbps, Mbps, Gbps, etc.), not bytes per second. 
+- Speed is measured in bits per second (Kbps, Mbps, Gbps, etc.), not bytes per second.
+- 1 kilobit (Kb) = 1,000 bits
+- 1 megabit (Mb) = 1,000,000 bits
+- 1 gigabit (Gb) = 1,000,000,000 bits
+- 1 terabit (Tb) = 1,000,000,000,000 bits
+
 ### What is a Bit?
 - It's a value represented by either a 0 or a 1. 
 - 0, 1 this binary code is how computers work.
