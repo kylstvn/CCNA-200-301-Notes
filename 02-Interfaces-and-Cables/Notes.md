@@ -38,9 +38,11 @@
 - Unshielded Twisted Pair.
 - Twist helps protect against electromagnetic interference or EMI.
 
-- 10BASE-T & 100BASE-T = 2 pairs (4 wires)
+- 10BASE-T & 100BASE-T = 2 pairs (1 and 2, 3 and 6) (4 wires)
 - 1000BSE-T & 10GBASE-t = 4 pairs (8 wires)
-
+- Ethernet uses full duplex transmission so the two devices can send data at the same time with no issues.
+- Routers transmit data on pins 1 and 2, and receive data on pins 3 and 6, same as a PC.
+- Switches are the opposite, they receive data on pins 1 and 2 and transmit data on pins 3 and 6.
 
 
 
