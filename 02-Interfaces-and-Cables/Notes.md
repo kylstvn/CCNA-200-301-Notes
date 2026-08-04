@@ -30,9 +30,16 @@
 - Defined in the IEEE 802.3 standard in 1983.
 - IEEE = Institute of Electrical and Electronics Engineers.
 
+### Ethernet Standards (copper)
+- BASE = refers to baseband signaling.
+- T = twisted pair.
 
+### UTP Cables
+- Unshielded Twisted Pair.
+- Twist helps protect against electromagnetic interference or EMI.
 
-
+- 10BASE-T & 100BASE-T = 2 pairs (4 wires)
+- 1000BSE-T & 10GBASE-t = 4 pairs (8 wires)
 
 
 
