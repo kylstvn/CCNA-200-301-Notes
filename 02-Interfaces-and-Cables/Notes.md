@@ -26,6 +26,11 @@
 ### What is a byte?
 - 8 bits is equal to 1 byte.
 
+## Ethernet Standards
+- Defined in the IEEE 802.3 standard in 1983.
+- IEEE = Institute of Electrical and Electronics Engineers.
+
+
 
 
 
