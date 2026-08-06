@@ -47,5 +47,6 @@
 ### Auto MDI-X
 - Auto MDI-X allows devices to automatically detect which pins their neighbor is transmitting data on, and then adjust which pins they use to transmit and receive data. 
 
-
+### Fiber-Optic Connections
+- SFP Transceiver (Small Form-Factor Pluggable)
 
