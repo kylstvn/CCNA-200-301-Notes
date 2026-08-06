@@ -44,6 +44,8 @@
 - Routers transmit data on pins 1 and 2, and receive data on pins 3 and 6, same as a PC.
 - Switches are the opposite, they receive data on pins 1 and 2 and transmit data on pins 3 and 6.
 
+### Auto MDI-X
+- Auto MDI-X allows devices to automatically detect which pins their neighbor is transmitting data on, and then adjust which pins they use to transmit and receive data. 
 
 
 
