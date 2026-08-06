@@ -49,10 +49,10 @@
 
 ### Fiber-Optic Connections
 - SFP Transceiver (Small Form-Factor Pluggable)
-1: the fiberglass core itself
-2: cladding that reflects light
-3: a protective buffer
-4: the outer jacket of the cable
+- 1: the fiberglass core itself
+- 2: cladding that reflects light
+- 3: a protective buffer
+- 4: the outer jacket of the cable
 #### Two main types of fiber-optic cables
 - single-mode
 - multimode
