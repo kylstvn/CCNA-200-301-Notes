@@ -54,5 +54,17 @@
 - 3: a protective buffer
 - 4: the outer jacket of the cable
 #### Two main types of fiber-optic cables
-- single-mode
-- multimode
+- single-mode fiber
+- multimode fiber
+
+### Multimode Fiber
+- Core diameter is wider than single-mode fiber.
+- Allows multiple angles (modes) of light waves to enter the fiberglass core.
+- Allows longer cables than UTP, but shorter cables than single-mode fiber.
+- Cheaper than single-mode fiber (due to cheaper LED-based SFP transmitters).
+
+### Single-Mode Fiber
+- Core diameter is narrower than multimode fiber.
+- Light enters at a single angle (mode) from a laser-based transmitter.
+- Allows longer cables than both UTP and multimode fiber. 
+- More expensive than multimode fiber (due to more expensive laser-based SFP transmitters).
