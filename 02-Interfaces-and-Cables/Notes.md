@@ -68,3 +68,19 @@
 - Light enters at a single angle (mode) from a laser-based transmitter.
 - Allows longer cables than both UTP and multimode fiber. 
 - More expensive than multimode fiber (due to more expensive laser-based SFP transmitters).
+
+### UTP vs Fiber-Optic Cabling
+#### UTP
+- Lower cost than fiber-optic.
+- Shorter maximum distance than fiber-optic (~100m).
+- Can be vulnerable to EMI (Electromagnetic Interference).
+- RJ45 ports used with UTP are cheaper than SFP ports.
+- Emit (leak) a faint signal outside of the cable, which can be copied (=security risk).
+#### Fiber-Optic
+- Higher cost than UTP.
+- Longer maximum distance than UTP.
+- No vulnerability to EMI.
+- SFP ports are more expensive than RJ45 ports (single-mode is more expensive than multimode).
+- Does not emit any signal outside of the cable (=no security risk).
+
+
